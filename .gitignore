@@ -1,0 +1,8 @@
+# Local tooling / session junk
+.tmp-*
+*.pid
+
+# Local IDE / assistant workspace files
+.vscode/
+.opencode/
+graphify-out/
